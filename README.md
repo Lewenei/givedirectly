@@ -1,6 +1,9 @@
 * GiveDirectly-Inspired WordPress Theme
 This is a custom WordPress theme inspired by GiveDirectly.org and made from a starter theme called `_s`, or `underscores`. I designed this theme following an open position for WordPress Engineer at GiveDirectly! Hope I will get hired 🤞🏾. 
 
+![image](https://github.com/user-attachments/assets/71433b78-9049-493f-8bc3-28b246c27c3d)
+
+
 * Features
 Responsive Design: Fully mobile-friendly with collapsible navigation.
 Custom Donate Button: Prominent and customizable "Donate" button in the header.
@@ -25,7 +28,7 @@ Log in to your WordPress admin dashboard, go to Appearance > Themes, and activat
 Customize your site by navigating to Appearance > Customize.
 
 File Structure
-
+```sh
 givedirectly-theme/
 │
 ├── assets/css/
@@ -42,6 +45,7 @@ givedirectly-theme/
 ├── style.css               # Main theme stylesheet
 ├── screenshot.png          # Screenshot for the WordPress theme preview
 └── README.md               # Theme documentation
+```
 
 
 Good luck!
